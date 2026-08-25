@@ -72,7 +72,7 @@
   </tbody>
 </table>
 
-<h3>Know more about me on my blog!</h3>
+<h3>Learn more about me on my blog!</h3>
 <ul>
   <li><a href="https://www.saviya.me/?openApp=zed&id=content%3A%2F%2Fblogs%2F2026%2F8%2FPenelope.md"><b>Penelope 一款地图画生成项目</b></a><br/><i>Penelope 是一款开源的在线《我的世界》地图画生成网站，支持将图片转换为地图画，并导出为 litematic 文件。</i></li>
 </ul>
