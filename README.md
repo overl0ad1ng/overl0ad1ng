@@ -84,5 +84,6 @@
 <p>
 Free to contact with me: <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8271/blob-dab.gif?1643514812" style="width:16px" />
 <br />
-<a href="https://qm.qq.com/q/HKc8v8deym" target="_blank"><img src="https://img.shields.io/badge/-QQ%20Group-inactive"></a>
+<a href="https://qm.qq.com/q/HKc8v8deym" target="_blank"><img src="https://img.shields.io/badge/QQ%20Group-1074660831-inactive?style=flat-square"></a>
+<a rel="me" href="https://miss.saviya.me/@kyomu" target="_blank"><img src="https://img.shields.io/badge/Misskey-%40Kyomu-green?style=flat-square"></a>
 </p>
