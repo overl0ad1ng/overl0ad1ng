@@ -56,11 +56,11 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/overl0ad1ng/penelope"><b>Penelope</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/overl0ad1ng/penelope?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/overl0ad1ng/penelope?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/overl0ad1ng/penelope?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/overl0ad1ng/penelope?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/folio-brainstorm/reverie"><b>Rêverie</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/folio-brainstorm/reverie?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/folio-brainstorm/reverie?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/folio-brainstorm/reverie?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/folio-brainstorm/reverie?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/overl0ad1ng/ten3b"><b>Ten3b (WIP: Rewriting)</b></a></td>
@@ -70,27 +70,15 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/overl0ad1ng/ten3b?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/folio-brainstorm/reverie"><b>Rêverie</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/folio-brainstorm/reverie?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/folio-brainstorm/reverie?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/folio-brainstorm/reverie?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/folio-brainstorm/reverie?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/overl0ad1ng/penelope"><b>Penelope (archived)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/overl0ad1ng/penelope?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/overl0ad1ng/penelope?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/overl0ad1ng/penelope?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/overl0ad1ng/penelope?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
 
 > More Projects I've Worked On:
 > - Folio (closed-source project): <i>Slowly collecting scattered ideas and shaping them into tangible results.</i>
-
-<h3>Learn more about me on my blog!</h3>
-<ul>
-  <li><a href="https://www.saviya.me/?openApp=zed&id=content%3A%2F%2Fblogs%2F2026%2F8%2FPenelope.md"><b>Penelope A Minecraft map art generator</b></a><br/><i>Penelope is an open-source web application that converts images into Minecraft map art and exports them as .litematic files.
-</i></li>
-</ul>
-
-<p>
-Free to contact with me: <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8271/blob-dab.gif?1643514812" style="width:16px" />
-<br />
-<a href="https://qm.qq.com/q/HKc8v8deym" target="_blank"><img src="https://img.shields.io/badge/QQ%20Group-1074660831-inactive?style=flat-square"></a>
-<a rel="me" href="https://miss.saviya.me/@kyomu" target="_blank"><img src="https://img.shields.io/badge/Mastodon-%40Kyomu-green?style=flat-square"></a>
-</p>
+> - Rêverie (open source raster engine)
