@@ -62,12 +62,19 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/overl0ad1ng/penelope?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/overl0ad1ng/penelope?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/overl0ad1ng/ten3b"><b>Ten3b (WIP: Rewriting)</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/overl0ad1ng/ten3b?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/overl0ad1ng/ten3b?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/overl0ad1ng/ten3b?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/overl0ad1ng/ten3b?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/folio-brainstorm/reverie"><b>Rêverie</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/folio-brainstorm/reverie?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/folio-brainstorm/reverie?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/folio-brainstorm/reverie?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/folio-brainstorm/reverie?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
